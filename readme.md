@@ -59,7 +59,7 @@ Para executar o código diretamente no seu computador, são necessários os segu
 ```
 # Clone ou baixe este repositório.
 
-$ git clone https://github.com/alexandredev3/plantmanager-nlw05.git
+$ git clone https://github.com/rmpetersen86/formulariosNativebase.git
 
 # Acesse o diretório onde o repositório foi clonado ou baixado
 #Caso tenha sido baixado, descompacte o arquivo e acesse o diretório
